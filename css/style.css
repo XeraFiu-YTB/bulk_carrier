@@ -205,6 +205,26 @@ h1, h2, h3, h4, h5, h6 {
   border: 2px solid #2dc997;
 }
 
+#about .btn-continue {
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid black;
+  color: black;
+}
+
+#about .btn-continue:hover {
+  background: #2dc997;
+  border: 2px solid #2dc997;
+}
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
